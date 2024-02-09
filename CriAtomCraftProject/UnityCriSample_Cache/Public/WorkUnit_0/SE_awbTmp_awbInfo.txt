@@ -1,2 +1,0 @@
-0,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_SE/a94cdf7782e4801bd79f9f095e1a723c.hca
-1,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_SE/a869df17fc91188a34c450efcb2ba496.hca
