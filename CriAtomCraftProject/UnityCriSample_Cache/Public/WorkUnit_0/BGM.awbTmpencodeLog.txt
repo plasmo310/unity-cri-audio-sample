@@ -1,0 +1,64 @@
+BGM_MogTheme.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM/8f21bbf62a13ec8d986447bbb0f6d2d8.hca
+BGM_OthelloBattle.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM/5870024313dbf801b3319d5eaf852aa1.hca
+BGM_OthelloBattle.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM/1db4c71cf67e2888c2b98f1f432c6ebe.hca
+BGM_OthelloBattle.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM/53f0e9bdc698c701797b8da9d83def6f.hca
+BGM_ShotThunder.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM/aea5a58aaae1010d76d21a4674ac85d5.hca
+BGM_SpaceWould.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM/dfe0d4fee7b4d4dad921ae2ffdcf1ba0.hca
+========== Encoding : BGM_SpaceWould.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM/BGM_SpaceWould/Track_BGM_SpaceWould/BGM_SpaceWould.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_SpaceWould.wav
+unhash cacheName  : BGM_SpaceWould_Enc_44100HCAHigh_2ch3_Public_cc2dcec1_94e39cec.hca
+materialName      : BGM_SpaceWould.wav
+outputName        : dfe0d4fee7b4d4dad921ae2ffdcf1ba0.hca
+
+Start Encoding...
+Success.
+========== Encoding : BGM_OthelloBattle.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM/BGM_OthelloBattle/Track_BGM_OthelloBattle/BGM_OthelloBattle.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_OthelloBattle.wav
+unhash cacheName  : BGM_OthelloBattle_Enc_44100HCAHigh_2ch3_Public_7e9097b5_94e39cec.hca
+materialName      : BGM_OthelloBattle.wav
+outputName        : 5870024313dbf801b3319d5eaf852aa1.hca
+
+Start Encoding...
+Success.
+========== Encoding : BGM_ShotThunder.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM/BGM_ShotThunder/Track_BGM_ShotThunder/BGM_ShotThunder.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_ShotThunder.wav
+unhash cacheName  : BGM_ShotThunder_Enc_44100HCAHigh_2ch3_Public_d7e13bf8_94e39cec.hca
+materialName      : BGM_ShotThunder.wav
+outputName        : aea5a58aaae1010d76d21a4674ac85d5.hca
+
+Start Encoding...
+Success.
+========== Encoding : BGM_MogTheme.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM/BGM_MogTheme/Track_BGM_MogTheme/BGM_MogTheme.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_MogTheme.wav
+unhash cacheName  : BGM_MogTheme_Enc_44100lp299880-1428840HCAHigh_2ch3_Public_934012ba_94e39cec.hca
+materialName      : BGM_MogTheme.wav
+outputName        : 8f21bbf62a13ec8d986447bbb0f6d2d8.hca
+
+Start Encoding...
+Success.
+========== Encoding : BGM_OthelloBattle.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM/BGM_OthelloBattle_Block/Track_BGM_OthelloBattle/BGM_OthelloBattle.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_OthelloBattle.wav
+unhash cacheName  : BGM_OthelloBattle_Enc_44100HCAHigh_2ch3Trimmer(0.000000-7400.832115)Fade([0.000000,2,1.000000][19.203610,1,1.000000])_Public_7e9097b5_94e39cec.hca
+materialName      : BGM_OthelloBattle.wav
+outputName        : 1db4c71cf67e2888c2b98f1f432c6ebe.hca
+Trimming : [0-7400.83](msec), [0-326377](sample)
+FadeIn  : 0 msec, strength 1, type 2
+FadeOut : 19.2036 msec, strength 1, type 1
+
+Start Encoding...
+Success.
+========== Encoding : BGM_OthelloBattle.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM/BGM_OthelloBattle_Block/Track_BGM_OthelloBattle_0/BGM_OthelloBattle.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_OthelloBattle.wav
+unhash cacheName  : BGM_OthelloBattle_Enc_44100HCAHigh_2ch3Trimmer(7391.786912-14769.229000)_Public_7e9097b5_94e39cec.hca
+materialName      : BGM_OthelloBattle.wav
+outputName        : 53f0e9bdc698c701797b8da9d83def6f.hca
+Trimming : [7391.79-14769.2](msec), [325978-651323](sample)
+
+Start Encoding...
+Success.

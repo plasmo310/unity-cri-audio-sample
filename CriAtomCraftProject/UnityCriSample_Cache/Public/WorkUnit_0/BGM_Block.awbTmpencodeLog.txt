@@ -1,0 +1,84 @@
+BGM_AtomChain_Back.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/5eebe146f3f3e17f68ae195644d8103a.hca
+	BGM_AtomChain_Back.wav => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/7246bfab14c0823ba91b639d3164bb24.hca
+BGM_AtomChain_Back.wav_2 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/a166aba6217cb4a26c7573763e53c198.hca
+	BGM_AtomChain_Back.wav_2 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/3b1fe39acb1e879fc58075d5f2bb53af.hca
+BGM_AtomChain_Back.wav_1 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/1694fa78ba71a6997c1586258b5b0cf4.hca
+	BGM_AtomChain_Back.wav_1 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/706dc608733c58e340cd24ebbe06d346.hca
+BGM_AtomChain_Back.wav_3 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/0e9ad32b60b6c155e76befe55479e3d0.hca
+	BGM_AtomChain_Back.wav_3 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/cfac7d9c8bdddd1f1631077a63f6e933.hca
+BGM_AtomChain_Catting.wav_2 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/753c74ee2ceda56fa54f19068a4d887c.hca
+	BGM_AtomChain_Catting.wav_2 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/3d8bf8bef6f2791d8441c86ce6342ce4.hca
+BGM_AtomChain_Pad.wav_1 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/80401fb6c463fb513c1bcdf1dbfe08ac.hca
+	BGM_AtomChain_Pad.wav_1 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/e6cfdeb20f61921352c210805bc7af27.hca
+BGM_AtomChain_Pad.wav_2 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/8552a1f5108253ec8e18cbf41fdf5582.hca
+	BGM_AtomChain_Pad.wav_2 => /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/68df974993c5d3b9aef35e932df52e51.hca
+========== Encoding : BGM_AtomChain_Back.wav ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Back/BGM_AtomChain_Back.wav
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Back.wav
+unhash cacheName  : BGM_AtomChain_Back_Enc_44100HCAHigh_2ch3Trimmer(0.000000-5543.230731)_Public_2474c5ff_94e39cec.hca
+materialName      : BGM_AtomChain_Back.wav
+outputName        : 5eebe146f3f3e17f68ae195644d8103a.hca
+Trimming : [0-5543.23](msec), [0-244456](sample)
+
+Start Encoding...
+Success.
+========== Encoding : BGM_AtomChain_Catting.wav_2 ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Catting/BGM_AtomChain_Catting.wav_2
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Catting.wav
+unhash cacheName  : BGM_AtomChain_Catting_Enc_44100HCAHigh_2ch3Trimmer(11076.923077-48000.000000)_Public_b7fe3e9_94e39cec.hca
+materialName      : BGM_AtomChain_Catting.wav
+outputName        : 753c74ee2ceda56fa54f19068a4d887c.hca
+Trimming : [11076.9-48000](msec), [488492-2116800](sample)
+
+Start Encoding...
+Success.
+========== Encoding : BGM_AtomChain_Pad.wav_1 ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Pad/BGM_AtomChain_Pad.wav_1
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Pad.wav
+unhash cacheName  : BGM_AtomChain_Pad_Enc_44100HCAHigh_2ch3Trimmer(11076.923077-48000.000000)_Public_bec18abc_94e39cec.hca
+materialName      : BGM_AtomChain_Pad.wav
+outputName        : 80401fb6c463fb513c1bcdf1dbfe08ac.hca
+Trimming : [11076.9-48000](msec), [488492-2116800](sample)
+
+Start Encoding...
+Success.
+========== Encoding : BGM_AtomChain_Back.wav_2 ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Back/BGM_AtomChain_Back.wav_2
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Back.wav
+unhash cacheName  : BGM_AtomChain_Back_Enc_44100HCAHigh_2ch3Trimmer(11076.923077-48000.000000)_Public_2474c5ff_94e39cec.hca
+materialName      : BGM_AtomChain_Back.wav
+outputName        : a166aba6217cb4a26c7573763e53c198.hca
+Trimming : [11076.9-48000](msec), [488492-2116800](sample)
+
+Start Encoding...
+Success.
+========== Encoding : BGM_AtomChain_Back.wav_1 ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Back/BGM_AtomChain_Back.wav_1
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Back.wav
+unhash cacheName  : BGM_AtomChain_Back_Enc_44100HCAHigh_2ch3Trimmer(5538.461577-7384.615385)_Public_2474c5ff_94e39cec.hca
+materialName      : BGM_AtomChain_Back.wav
+outputName        : 1694fa78ba71a6997c1586258b5b0cf4.hca
+Trimming : [5538.46-7384.62](msec), [244246-325662](sample)
+
+Start Encoding...
+Success.
+========== Encoding : BGM_AtomChain_Back.wav_3 ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Back/BGM_AtomChain_Back.wav_3
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Back.wav
+unhash cacheName  : BGM_AtomChain_Back_Enc_44100HCAHigh_2ch3Trimmer(9230.769231-11076.923077)_Public_2474c5ff_94e39cec.hca
+materialName      : BGM_AtomChain_Back.wav
+outputName        : 0e9ad32b60b6c155e76befe55479e3d0.hca
+Trimming : [9230.77-11076.9](msec), [407077-488492](sample)
+
+Start Encoding...
+Success.
+========== Encoding : BGM_AtomChain_Pad.wav_2 ==========
+waveformSynthPath : /CriAtomCraftV2Root/WorkUnits/WorkUnit_0/CueSheetFolder/WorkUnit_0/BGM_Block/BGM_AtomChain/Track_Pad/BGM_AtomChain_Pad.wav_2
+materialPath      : /Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/WorkUnits/WorkUnit_0/Materials/BGM/BGM_AtomChain_Pad.wav
+unhash cacheName  : BGM_AtomChain_Pad_Enc_44100HCAHigh_2ch3Trimmer(9230.769231-11076.923077)_Public_bec18abc_94e39cec.hca
+materialName      : BGM_AtomChain_Pad.wav
+outputName        : 8552a1f5108253ec8e18cbf41fdf5582.hca
+Trimming : [9230.77-11076.9](msec), [407077-488492](sample)
+
+Start Encoding...
+Success.

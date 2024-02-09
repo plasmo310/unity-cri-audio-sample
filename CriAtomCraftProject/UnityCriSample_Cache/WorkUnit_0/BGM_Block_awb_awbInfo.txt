@@ -1,0 +1,7 @@
+0,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/5eebe146f3f3e17f68ae195644d8103a.hca
+1,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/a166aba6217cb4a26c7573763e53c198.hca
+2,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/1694fa78ba71a6997c1586258b5b0cf4.hca
+3,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/0e9ad32b60b6c155e76befe55479e3d0.hca
+4,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/753c74ee2ceda56fa54f19068a4d887c.hca
+5,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/80401fb6c463fb513c1bcdf1dbfe08ac.hca
+6,/Users/plasmo/workspace/GitProjects/unity-cri-audio-sample/CriAtomCraftProject/UnityCriSample_Cache/WorkUnit_0_WorkUnit_0_BGM_Block/8552a1f5108253ec8e18cbf41fdf5582.hca
